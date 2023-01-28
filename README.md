@@ -1,5 +1,5 @@
 ### MoneyMaker
-This project is based on Codecademy tutorial "Money Maker". You can provide cost of product and amount of money the customer gave you, and Money Maker calculates change and what kinds of paper and coins you should give him back. Simply but useful.
+This project is based on Codecademy tutorial "Money Maker". You can provide cost of product and amount of polish zloty the customer gave you, and Money Maker calculates change and what kinds of paper and coins you should give him back. Simply but useful. I have plans with this app, and I will add other currencies and more calculators in the near future.
 
 ### Run this project
-In folder /Publish run the 'MoneyMaker.exe' file and it will open in system terminal.
+Open project in Visual Studio and it run as normal console app.
